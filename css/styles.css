@@ -30,7 +30,7 @@ hr {
    margin: 60px;
 }
 h1 {
-  margin-top: 65px;
+  margin-top: 25px;
   color: #66BFBF;
   font-family: 'Merriweather', cursive;
   font-size: 5rem;
@@ -57,6 +57,7 @@ h3 {
 }
 .mountain {
    margin-bottom: 20px;
+   relative-width:100%;
 }
 
 .intro {
@@ -91,8 +92,8 @@ padding: 50px 0 20px;
 .bottom-cloud {
 
   position: absolute;
-  left: 210px;
-  bottom: 300px;
+    left: 70px;
+    bottom: 300px;
 }
 .skill-row {
 
